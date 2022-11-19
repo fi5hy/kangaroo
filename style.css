@@ -5,6 +5,7 @@ body {
     padding: 0px;
     font-size: 13px;
     color: #0e3;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #nav {
@@ -16,7 +17,7 @@ body {
     height: 188px;
     width: 326px;
     margin: 50px;
-    background: url('tkangaroobig.png') no-repeat 5px 5px;
+    background: url('tkangaroo.png') no-repeat 5px 5px;
     _width: 376px;
 }
 
