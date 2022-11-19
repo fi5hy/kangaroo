@@ -8,15 +8,21 @@ body {
     font-family: 'SF Mono, monospace';
 }
 
+p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 #nav {
     display: block;
     text-align: right;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     list-style: none;
     height: 188px;
     width: 326px;
     margin: 50px;
-    _width: 376px;
+    background-image: url('tkangaroo.png');
+    width: 376px;
 }
 
 #imgmain {
