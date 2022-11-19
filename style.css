@@ -21,7 +21,7 @@ p {
     height: 188px;
     width: 326px;
     margin: 50px;
-    background-image: url('tkangaroo.png') no-repeat 3px 3px;
+    background: url('tkangaroo.png') no-repeat 3px 3px;
     width: 376px;
 }
 
