@@ -5,13 +5,12 @@ body {
     padding: 0px;
     font-size: 13px;
     color: #0e3;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'SF Mono, monospace';
 }
 
 #nav {
     display: block;
     text-align: right;
-    font-family: "monospace";
     font-weight: bold;
     list-style: none;
     height: 188px;
