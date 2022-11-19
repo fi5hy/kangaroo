@@ -25,6 +25,10 @@ p {
     width: 376px;
 }
 
+a {
+    color: orange;
+}
+
 #imgmain {
     text-align: left;
 }
