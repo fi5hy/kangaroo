@@ -33,11 +33,12 @@ a {
 }
 
 #main {
-    border: 1px solid #0c3;
+    border: 2px solid #0c3;
     width: 476px; 
     height: 288px;
     background-image: url('line5.gif');
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 100px;
+    margin-top: 400px;
 }
